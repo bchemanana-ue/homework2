@@ -1,0 +1,27 @@
+test1:
+input: 1 0
+output: 
+  101 80
+  205 95
+  310 60
+  420 50
+test2:
+input: 2 0
+output: 
+  Count: 4
+  Average: 71.25
+  Passed: 3
+  Min: 420 50
+  Max: 205 95
+test3:
+input: 3 205 3 999 0
+output:
+  205 95
+  Not found
+test4:
+input: 1 2 4 5 0
+output: 
+  команда 1  No data
+  команда 2  No data
+  команда 4  No data
+  команда 5  создан пустой report.txt (0 строк)
